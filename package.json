@@ -1,0 +1,23 @@
+{
+  "name": "create-first-server",
+  "version": "1.0.0",
+  "description": "Our first node.js server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon serve.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mansoor-343/create-first-server.git"
+  },
+  "author": "MANSOOR AHAMMED MULLA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mansoor-343/create-first-server/issues"
+  },
+  "homepage": "https://github.com/Mansoor-343/create-first-server#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
